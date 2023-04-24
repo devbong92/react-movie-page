@@ -1,6 +1,6 @@
 const navList = [{
     title : "High Rating",
-    path: "minimum_rating=7"
+    path: "minimum_rating=3"
   }, {
     title : "Romance",
     path: "genre=romance"

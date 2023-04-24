@@ -69,8 +69,9 @@ function Nav() {
             })}
         </ul>
         <ul className={styles.icon__list}>
-            <li><a href="https://twitter.com/?lang=ko" target="_blank"><i class="fab fa-twitter-square"></i></a></li>
-            <li><a href="https://www.instagram.com/" target="_blank"><i class="fab fa-instagram"></i></a></li>
+            {/* <li><a href="https://twitter.com/?lang=ko" target="_blank"><i class="fab fa-twitter-square"></i></a></li> */}
+            {/* <li><a href="https://www.instagram.com/" target="_blank"><i class="fab fa-instagram"></i></a></li> */}
+            <li><a href="https://www.github.com/devbong92/react-movie-page" target="_blank"><i class="fab fa-github"></i></a></li>
         </ul>
     </nav>
     <div className={styles.null}></div>

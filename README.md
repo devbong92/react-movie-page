@@ -1,13 +1,12 @@
 
 # ReactJS로 영화 웹 서비스 만들기
+
+### 노마드코더 강의 
 > https://nomadcoders.co/react-for-beginners
 
 ```
 + 2023-04-01
 > # 5.0 Introduction (09:10)
-
-+ 2023-04-16
->
 
 
 + Project init 
