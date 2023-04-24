@@ -1,0 +1,29 @@
+* {
+    box-sizing: border-box;
+    font-family: "Black Han Sans", sans-serif;
+    font-family: "Do Hyeon", sans-serif;
+  }
+  
+  body {
+    margin: 0;
+    padding: 0;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+      Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+    background-image: linear-gradient(
+      to right top,
+      #d9f871,
+      #dfe469,
+      #dfd166,
+      #dfbe66,
+      #dfac69,
+      #df9d6d,
+      #df8f73,
+      #df827b,
+      #da7486,
+      #d26993,
+      #d661a2,
+      #d6a65d
+    );
+    height: 100%;
+  }
+  

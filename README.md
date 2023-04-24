@@ -10,11 +10,11 @@
 >
 
 
-+ Project init 111 zz1szzzz
++ Project init 
 > 
 > npm install react-router-dom 
-> 
-> 
+> npm install recoil
+> npm install axios
 
 ```
 
