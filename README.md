@@ -14,6 +14,7 @@
 > npm install react-router-dom 
 > npm install recoil
 > npm install axios
+> npm install gh-pages
 
 ```
 
